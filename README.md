@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @corlandini
+- 👋 Hi, I’m Cecilia!
 - 👀 I’m interested in infrastructure topics, especially around OpenShift.
 - 🌱 I’m currently learning how to install and use Business Process Management tools like BAMOE and API manager as 3scale or APIConnect.
 - 💞️ I’m looking to collaborate on creating an automated, containerized setup for BAMOE/PAM.
