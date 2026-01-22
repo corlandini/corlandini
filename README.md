@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @corlandini
-- 👀 I’m interested in infrastructure topics, especially around OpenShift and Azure DevOps.
-- 🌱 I’m currently learning how to install and use Business Process Management tools like BAMOE (Business Automation Manager Open Edition).
+- 👀 I’m interested in infrastructure topics, especially around OpenShift.
+- 🌱 I’m currently learning how to install and use Business Process Management tools like BAMOE and API manager as 3scale or APIConnect.
 - 💞️ I’m looking to collaborate on creating an automated, containerized setup for BAMOE/PAM.
 - 📫 How to reach me: cecilia.orlandini.accenture@gmail.com
 - 😄 Pronouns: She/her
